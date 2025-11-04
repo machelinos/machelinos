@@ -23,8 +23,8 @@ I build tools, systems, and people.
 
 💬 Let’s Connect
 
-    🌐 Website → marcelcabrera.com.mx
-    💼 LinkedIn → linkedin.com/in/marcel-cabrera-ui-dev
+    🌐 Website →  [marcelcabrera.com.mx](https://www.marcelcabrera.com.mx)
+    💼 LinkedIn → [linkedin.com/in/marcel-cabrera-ui-dev](https://www.linkedin.com/in/marcel-cabrera-ui-dev/)
 
 <!--
 **machelinos/machelinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
